@@ -1,0 +1,35 @@
+    
+        body {
+            border: 10px solid #333; 
+            padding: 20px; 
+            margin: 0; 
+        }
+
+    
+        .content {
+            text-align: center;
+        }
+
+
+         body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: orchid;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+    
